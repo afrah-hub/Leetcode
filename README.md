@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/afrah-hub/Leetcode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/afrah-hub/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/afrah-hub/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/afrah-hub/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/afrah-hub/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/afrah-hub/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -63,9 +65,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/afrah-hub/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/afrah-hub/Leetcode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/afrah-hub/Leetcode/tree/master/0190-reverse-bits) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/afrah-hub/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/afrah-hub/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
