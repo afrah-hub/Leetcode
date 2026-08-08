@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/afrah-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/afrah-hub/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/afrah-hub/Leetcode/tree/master/0202-happy-number) |
 ## Array
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/afrah-hub/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/afrah-hub/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/afrah-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/afrah-hub/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/afrah-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/afrah-hub/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
